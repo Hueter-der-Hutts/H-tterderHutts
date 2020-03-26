@@ -10,4 +10,4 @@ How to use it?
     it's "[how much percent away from the result] w(weight)[weight] b(bias)[Bias]
     
     
-    yeah thats all i know its not that great but for me a first step in the right direction 
+
